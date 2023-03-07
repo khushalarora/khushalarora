@@ -32,11 +32,11 @@ I am currently exploring :
 
 ## Certifications 🎓
 
-<a href="https://www.hackerrank.com/certificates/fa4682f96c74" target="_blank"> <img src="https://user-images.githubusercontent.com/83774725/221908116-c79f79cb-1bb0-4253-b034-3fb2ab0f7a1b.png" alt="Certificate" width="200"> </a>
+<a href="https://www.hackerrank.com/certificates/fa4682f96c74" target="_blank"> <img src="https://user-images.githubusercontent.com/83774725/221908116-c79f79cb-1bb0-4253-b034-3fb2ab0f7a1b.png" alt="Certificate" width="200"> </a>&nbsp;&nbsp; <a href="https://www.kaggle.com/learn/certification/khushalarora26/python" terget="_blank"> <img src="https://user-images.githubusercontent.com/83774725/223450977-bc403e8a-2f4b-4b8d-bb1e-5673c9291c47.png" alt="Certificate" height="150"> </a>&nbsp;&nbsp; <a href="https://www.kaggle.com/learn/certification/khushalarora26/intro-to-programming" target="_blank"> <img src="https://user-images.githubusercontent.com/83774725/223456335-12362cd3-e28f-4479-ae36-aa41808f781e.png" alt="Certificate" height="150"> </a>
 
 <br>
 
 ## Connect With Me 🤝
 
-<a href="https://twitter.com/khushaltwts" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a>&nbsp; <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> </a>
+<a href="https://twitter.com/khushaltwts" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a>&nbsp; <a href="https://www.linkedin.com/in/khushal-arora" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> </a>
 
