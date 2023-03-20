@@ -5,15 +5,14 @@
 
 ## **About Me** 👨
 
-<h3>Hi :wave:</h3>
+<br>
+<h3 align="center", border="2px solid white"> Hi :wave:, I am <a href="https://twitter.com/khushaltwts">Khushal Arora</a>, a 19 y/o Student </h3>
+<br><br>
 
-I am [**Khushal Arora**](https://twitter.com/khushaltwts), a 19 y/o Student.
-
-I am currently exploring :
- * Web Development 🌐
- * Open Source 🖥
- * Programming 👨‍💻
-
+### **I am currently exploring :**
+ * **Web Development** 🌐
+ * **Open Source** 🖥
+ * **Programming** 👨‍💻
 <br>
 
 ## **Skills** 👨‍💻
