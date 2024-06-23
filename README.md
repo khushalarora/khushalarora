@@ -6,7 +6,7 @@
 ## **About Me** 👨
 
 <br>
-<h3 align="center", border="2px solid white"> Hi :wave:, I am <a href="https://twitter.com/khushaltwts">Khushal Arora</a>, a 19 y/o Student </h3>
+<h3 align="center", border="2px solid white"> Hi :wave:, I am <a href="https://twitter.com/khushaltwts">Khushal Arora</a>, a 20 y/o Student </h3>
 <br><br>
 
 ### **I am currently exploring :**
